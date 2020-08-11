@@ -1,0 +1,40 @@
+.section-hero__body-container{
+    background-image:linear-gradient( rgba(0, 0, 0, 0.3), rgba(15, 5, 20, 0.84)), url(./images/background.jpg);
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.button-transparent{
+    border: 1px solid white;
+    border-radius: 20px;
+    padding: 5px 20px;
+    margin-top: 30px;
+    background: transparent;
+    color: white;
+}
+
+.button-transparent:hover{
+    background-color: white;
+    color: black;
+}
+
+
+.section-card{
+    height: 20px;
+    width: 300px;
+}
+
+.title-container__heading-container{
+    border-bottom:1px solid  red;
+    width:fit-content;
+}
+
+.btn{
+    padding: 5px 25px;
+    background-color: red;
+    color: white;
+    border-radius: 20px;
+}
+
