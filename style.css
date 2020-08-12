@@ -56,3 +56,14 @@
     border-bottom: 1px solid red;
     width: fit-content;
 }
+
+input{
+    border: none;
+    border-bottom:1px solid red;
+    
+}
+
+textarea{
+    border: none;
+    border-bottom: 1px solid red;
+}
