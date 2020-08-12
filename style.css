@@ -58,7 +58,7 @@
     background-image:linear-gradient( rgba(0, 0, 0, 0.3), rgba(15, 5, 20, 0.84)), 
                       url(./images/background.jpg);
     background-attachment: fixed;
-    height: 30vh;
+    height: 35vh;
 }
 
 .section-subscribe__title-container{
@@ -93,4 +93,8 @@ textarea{
 
 h1, h2, h3, h4, h5, h6{
     font-family: Oleo Script Swash Caps,cursive;
+}
+
+ .section-gallary img{
+    max-width: 100%;
 }
